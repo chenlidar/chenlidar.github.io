@@ -26,6 +26,14 @@
     <lastmod>2024-06-16T10:07:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/survey_agent/</loc>
+    <lastmod>2024-04-29T15:01:51+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/persona_survey/</loc>
+    <lastmod>2024-04-28T15:56:41+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
